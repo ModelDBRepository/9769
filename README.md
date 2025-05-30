@@ -41,6 +41,4 @@ A bug in the vhalfl variable declaration in h.mod
 required a change of ghd in lamotrigine.hoc (from 0.0003 to 0.0006)
 to obtain the same results.
 
----
-
-2025-05-27 – Standardized to Markdown.
+27 May 2025 – Standardized to Markdown.
